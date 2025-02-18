@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>DoctorRV</name>
+=======
+	<name>doctor</name>
+>>>>>>> 4e73d3d (create folder)
 	<comment></comment>
 	<projects>
 	</projects>
